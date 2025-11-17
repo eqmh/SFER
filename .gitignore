@@ -1,4 +1,5 @@
 seabass_data/
+seabass_data_decompressed/
 *.png
 *.zip
 *.tar
