@@ -1,0 +1,5 @@
+seabass_data/
+*.png
+*.zip
+*.tar
+.env
