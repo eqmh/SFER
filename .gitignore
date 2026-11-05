@@ -1,8 +1,10 @@
 seabass_data/
 seabass_data_decompressed/
+carbonate_data/
 *.png
 *.zip
 *.tar
 *.tsv
 *.csv
+*.xlsx
 .env
